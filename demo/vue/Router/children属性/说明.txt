@@ -1,2 +1,0 @@
-
-new VueRouter() 路由实例时传如
